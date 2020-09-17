@@ -1,0 +1,22 @@
+{
+    "source": [
+        {
+            "file": "https:\/\/vidstreaming.io\/goto.php?url=aHR0cHM6LyAdrefsdsdfwerFrefdsfrersfdsrfer363435349zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3N0YXRpYy1yZXRpbmEtMjg4NzEyLzJVSk1KUVYzWktYSS8yMmFfMTU5OTgxOTg3OTE0NTExOC5tcDQ=",
+            "label": "HD P",
+            "default": "true",
+            "type": "mp4"
+        }
+    ],
+    "source_bk": [
+        {
+            "file": "https:\/\/file.gogocdn.net\/gleaming-bus-288801\/MRQDQMEAO_FM\/2490ba18f87f65655af73ea49eb3c8114f.mp4",
+            "label": "HD P",
+            "default": "true",
+            "type": "mp4"
+        }
+    ],
+    
+    "track": [],
+    "advertising": [],
+    "linkiframe": "https:\/\/cloud9.to\/embed\/uz-BGJkdavdT"
+}
